@@ -1,16 +1,12 @@
-### Hi there 👋
+👨‍💻 Estudiante en constante búsqueda de conocimiento y mejora en el mundo de la programación.
 
-<!--
-**Miguel5040/Miguel5040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+- 💼 Estudiante de 4Geeks Academy.
+- 📚 Apasionado por la programación y la resolución de problemas.
+- 🌱 Siempre aprendiendo y mejorando mis habilidades técnicas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intereses
+- 💡 Explorando el mundo de la programación y el desarrollo de software.
+- 🌐 Desarrollo de proyectos web y aplicaciones.
+- 📝 Publicando contenido técnico en redes sociales y blogs.
+- 🔧 Comprometido con los estudios y la tecnologia.
