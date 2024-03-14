@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Miguel Alberto</h1>
 <h3 align="center">Un apasionado Desarrollador Web Full Stack</h3>
 
-- 💼 Estudiante de 4Geeks Academy.
+- 💼 Graduado de 4Geeks Academy.
 - 🔧 Comprometido con los estudios y la tecnologia.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades técnicas.
 - 🌐 Desarrollo de proyectos web y aplicaciones.
