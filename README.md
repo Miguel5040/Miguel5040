@@ -2,6 +2,7 @@
 <h3 align="center">Desarrollador Web Full Stack</h3>
 
 🧠 Más de un año de experiencia profesional creando sistemas que **automatizan procesos manuales** y optimizan el trabajo operativo.
+
 🌐 Desarrollo de proyectos web y aplicaciones con enfoque en soluciones prácticas.  
 🔧 Apasionado por la tecnología y comprometido con el aprendizaje continuo.  
 🌱 Siempre perfeccionando mis habilidades técnicas y ampliando mis conocimientos.  
